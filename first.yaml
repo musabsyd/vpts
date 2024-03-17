@@ -6,3 +6,4 @@
   tasks:
     - name: test file for git
       debug:
+         msg: I have one file
